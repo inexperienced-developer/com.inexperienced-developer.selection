@@ -6,8 +6,7 @@
   "unity": "2021.3",
   "unityRelease": "0b5",
   "dependencies": {
-    "com.unity.inputsystem": "1.4.4",
-    "com.inexperienced-developer.input": "https://github.com/inexperienced-developer/com.inexperienced-developer.input.git"
+    "com.unity.inputsystem": "1.4.4"
   },
  "repository": {
   "type": "git",
