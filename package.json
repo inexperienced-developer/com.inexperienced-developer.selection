@@ -1,0 +1,20 @@
+{
+  "name": "com.inexperienced-developer.selection",
+  "version": "1.0.0",
+  "displayName": "Inexperienced Developer Selection System",
+  "description": "A unit selection system using the new Input System",
+  "unity": "2021.3",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.unity.inputsystem": "1.4.4"
+  },
+ "repository": {
+  "type": "git",
+  "url": "https://github.com/inexperienced-developer/com.inexperienced-developer.selection.git"
+ },
+  "author": {
+    "name": "Inexperienced Developer",
+    "email": "id@iddevelopers.net",
+    "url": "https://www.iddevelopers.net"
+  }
+}

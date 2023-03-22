@@ -1,0 +1,16 @@
+{
+    "name": "inexperienced-developer.selection",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6536ec629c5645c499b04a564a593b86"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
